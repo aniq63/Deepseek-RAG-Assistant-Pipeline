@@ -1,0 +1,13 @@
+# For OpenTelemetry setup
+opentelemetry-api==1.19.0
+opentelemetry-sdk==1.19.0
+opentelemetry-exporter-otlp-proto-grpc==1.19.0
+
+# For LangChain and related components
+langchain_community
+pypdf
+langchain_groq
+
+# For Chroma and embeddings
+chromadb
+huggingface-hub
